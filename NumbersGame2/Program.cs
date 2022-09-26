@@ -1,4 +1,4 @@
-﻿namespace NumbersGame2
+﻿namespace NumbersGame2                                 // Andreas Blom YH.Net - 22
 {
     internal class Program
     {
